@@ -68,7 +68,6 @@ I would like to extend my heartfelt appreciation to all the contributors who hav
 - [cb0n3y](https://github.com/cb0n3y)
 
 **Contributors:**
-- [Matthias Schmidt](Contributor 1's GitHub or Contact Link)
-- [Thomas Heller](Contributor 1's GitHub or Contact Link)
+
 ## License
 Apache License 2.0, see [LICENSE](https://github.com/cb0n3y/artifactory_and_xray/blob/main/LICENSE).
