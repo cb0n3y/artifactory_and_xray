@@ -55,11 +55,11 @@ Additionally, the execution of these tasks is orchestrated via a GitLab Pipeline
 This GitLab script delivers a comprehensive package management solution, seamlessly integrating with JFrog CLI and GitLab Pipelines. Whether through dynamic Bash operations or precise AQL queries, it empowers you to maintain a well-organized and efficient repository.
 If you encounter any issues, have questions, or need assistance with this project, please don't hesitate to reach out. You can find help and support in the following ways:
 
-* E-Mail: Feel free to contact us via email at 45013176+cb0n3y@users.noreply.github.com for direct support.
+* E-Mail: Feel free to contact us via email at cb0n3y@gmail.com for direct support.
 
 ## Contributing
 
-If you have any suggestions and/or contributions. Please contact me at : 45013176+cb0n3y@users.noreply.github.com
+If you have any suggestions and/or contributions. Please contact me at : cb0n3y@gmail.com
 
 ## Authors and acknowledgment
 I would like to extend my heartfelt appreciation to all the contributors who have dedicated their time and expertise to this project. Your valuable contributions have been instrumental in its success. Thank you for being an essential part of our team.
