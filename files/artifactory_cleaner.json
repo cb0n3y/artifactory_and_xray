@@ -14,7 +14,7 @@
             {"name":{"$match": "*-SNAPSHOT"}}
           ],
           "$and": [
-            {"repo":{"$nmatch":"some-repo-rpm-local"}}
+            {"repo":{"$nmatch":"some-repo-tech-*"}}
           ]
         }
       }
