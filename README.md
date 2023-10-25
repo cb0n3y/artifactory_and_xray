@@ -65,7 +65,7 @@ If you have any suggestions and/or contributions. Please contact me at : 4501317
 I would like to extend my heartfelt appreciation to all the contributors who have dedicated their time and expertise to this project. Your valuable contributions have been instrumental in its success. Thank you for being an essential part of our team.
 
 **Authors:**
-- [Angel F. Ortiz Suárez](https://github.com/cb0n3y)
+- [cb0n3y](https://github.com/cb0n3y)
 
 **Contributors:**
 - [Matthias Schmidt](Contributor 1's GitHub or Contact Link)
