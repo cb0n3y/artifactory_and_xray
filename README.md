@@ -71,4 +71,4 @@ I would like to extend my heartfelt appreciation to all the contributors who hav
 - [Matthias Schmidt](Contributor 1's GitHub or Contact Link)
 - [Thomas Heller](Contributor 1's GitHub or Contact Link)
 ## License
-Apache License 2.0, see [LICENSE](https://test-git.pixelpark.com/dig-pix/artifactory/artifactory-cleanup/-/blob/main/LICENSE?ref_type=heads).
+Apache License 2.0, see [LICENSE](https://github.com/cb0n3y/artifactory_and_xray/blob/main/LICENSE).
